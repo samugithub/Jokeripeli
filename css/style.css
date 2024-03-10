@@ -1,0 +1,11 @@
+td {
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    color: #000000;
+    outline: auto;
+    padding: 8px;
+    width: 20px;
+    box-shadow: 0 0 0 100px rgb(255, 234, 196) inset;
+}
